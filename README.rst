@@ -1,9 +1,6 @@
 Breakout Game
 ===================
 
-.. image:: ./static/images/2022-09-02_Breakout-Java.png
-  :align: center
-
 .. contents:: Table of Contents
 
 
@@ -12,9 +9,13 @@ Introduction
 
 |Github Stars| |Github Forks| |Github Open Issues| |Github Open PRs|
 
-**Breakout** is a Java implementation based off the arcade game,
+**Breakout** is based off the arcade game,
 `Breakout <https://en.wikipedia.org/wiki/Breakout_(video_game)>`_,
-released in 1976.
+released in 1976. This implementation is written in Java.
+
+.. image:: static/images/2022-09-02_Breakout-Java.PNG
+  :align: center
+  :width: 450
 
 
 Technologies Used
