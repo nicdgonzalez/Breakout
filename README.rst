@@ -9,9 +9,8 @@ Introduction
 
 |Github Stars| |Github Forks| |Github Open Issues| |Github Open PRs|
 
-**Breakout** is based off the arcade game,
-`Breakout <https://en.wikipedia.org/wiki/Breakout_(video_game)>`_,
-released in 1976. This implementation is written in Java.
+**Breakout** is a game written in Java based on the arcade game,
+`Breakout <https://en.wikipedia.org/wiki/Breakout_(video_game)>`_.
 
 .. image:: static/images/2022-09-02_Breakout-Java.PNG
   :align: center
